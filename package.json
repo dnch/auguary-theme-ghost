@@ -1,0 +1,10 @@
+{
+  "name": "auguary-theme-ghost",
+  "version": "1.0.0",
+  "description": "Auguary: a theme for Ghost.",
+  "main": "index.js",
+  "repository": "https://github.com/dnch/auguary-theme-ghost",
+  "author": "Dan Cheail <dan@dnch.xyz>",
+  "license": "MIT",
+  "private": true
+}
