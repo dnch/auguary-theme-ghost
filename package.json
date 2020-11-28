@@ -2,9 +2,16 @@
   "name": "auguary-theme-ghost",
   "version": "1.0.0",
   "description": "Auguary: a theme for Ghost.",
-  "main": "index.js",
   "repository": "https://github.com/dnch/auguary-theme-ghost",
   "author": "Dan Cheail <dan@dnch.xyz>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "autoprefixer": "^10.0.3",
+    "gulp": "^4.0.2",
+    "gulp-connect": "^5.7.0",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.0.1"
+  }
 }
